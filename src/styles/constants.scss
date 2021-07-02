@@ -19,9 +19,8 @@ $background-color: rgba(0, 0, 0, 0.2);
 $artboard-background-color: rgba($primary-color-white, 0.2);
 
 /* Fonts */
-$font-stack: 'Lato',
-sans-serif;
-$font-mono: 'Oxygen Mono', monospace;
+$font-stack: system-ui, sans-serif;
+$font-mono: monospace;
 
 /* GUI Opacity */
 $ui-opacity: 0.9;
